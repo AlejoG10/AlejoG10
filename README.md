@@ -1,9 +1,7 @@
 <h1>Hey there! I'm Alejandro</h1>
 <p>@codingspot</p>
 
-<br />
 <hr />
-<br />
 
 🚀 Check my [Personal Portfolio](https://portfolio-alejog10.vercel.app/) with all my projects and personal information!
 
