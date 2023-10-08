@@ -1,8 +1,5 @@
-<div align="center">
-  <h1>Hey there! I'm Alejandro</h1>
-  <p>@codingspot</p>
-</div>  
-  
+<h1>Hey there! I'm Alejandro</h1>
+<p>@codingspot</p>
 
 <br />
 <hr />
