@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://res.cloudinary.com/dtqzp5zom/image/upload/v1696801971/personal/rzr29rlpordxnkrzoew6.png" align="center" style="width: 100%" />
+  <h1>Hey there! I'm Alejandro</h1>
+  <p>@codingspot</p>
 </div>  
   
 
